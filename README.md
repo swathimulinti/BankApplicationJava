@@ -21,6 +21,7 @@ Encapsulation to hide account details and provide controlled access through gett
 Inheritance to create specialized SavingsAccount and CheckingAccount classes that inherit from a common Account class.
 Polymorphism to allow dynamic method behavior (e.g., deposit and withdraw operations tailored to each account type).
 Abstraction to create an abstract Account class that defines common properties and methods for all account types.
+
 Skills Demonstrated:
 
 Strong proficiency in Java and Object-Oriented Programming.
